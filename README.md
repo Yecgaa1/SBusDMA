@@ -2,17 +2,17 @@
 
 首先是cubemx配置时，如图
 
-![image-20210524211615145](https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/asset/%E6%97%A5%E5%BF%97/image-20210524211615145.png)
+![image-20210524211615145](https://raw.githubusercontent.com/xutongxin1/PictureBed/master/img0/image-20210524211615145.png)
 
 注意波特率，字节长，校验，停止位，最后有一个只接收（Sbus是单向协议
 
 DMA
 
-![image-20210524211847831](https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/asset/%E6%97%A5%E5%BF%97/image-20210524211847831.png)
+![image-20210524211847831](https://raw.githubusercontent.com/xutongxin1/PictureBed/master/img0/image-20210524211847831.png)
 
 NVIC
 
-![image-20210524211905625](https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/asset/%E6%97%A5%E5%BF%97/image-20210524211905625.png)
+![image-20210524211905625](https://raw.githubusercontent.com/xutongxin1/PictureBed/master/img0/image-20210524211905625.png)
 
 然后把文件复制到对应地方
 
